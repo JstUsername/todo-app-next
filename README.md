@@ -1,4 +1,4 @@
-# todo-nextjs
+# todo-app-next
 
 Простое приложения для управления списком дел. Проект разработан с использованием Next.js, Redux, TypeScript, CSS и Material UI.
 
